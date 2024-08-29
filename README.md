@@ -1,7 +1,7 @@
 # CraftimeLauncher
 Aha , it's a open score repository of our Craftime Launcher !
 But in fact , it's only a imagine of OutHimic till now .
-Crafttime Launcher is a Minecraft: Java Edition for HarmonyOS NEXT , write by ArkTS and Java . If possible , I can rewrite for any others .
+Crafttime Launcher is a Minecraft: Java Edition Launcher for HarmonyOS NEXT , write by ArkTS and Java . If possible , I can rewrite for any others .
 Mading it because of there are not any Minecraft Java Launcher for HarmonyOS . That's too bad for a Minecraft gamer !
 But till now , I even haven't any PCs for develop . So , it's only an imagine of Himic .
 If I have any free time , I'll do it !
