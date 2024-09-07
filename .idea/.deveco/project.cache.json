@@ -1,0 +1,15 @@
+{
+	"BuildOptions":{
+		"BUNDLE_NAME":"com.cts.craftingLauncher",
+		"SELECT_BUILD_MODE":"",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"G:\\CraftingLauncher\\build\\outputs\\default"
+		},
+		"SELECT_BUILD_PRODUCT":"default"
+	},
+	"CommonInfo":{
+		"project.ide.version":"5.0.3.706",
+		"current.select.product":"default",
+		"current.select.buildMode":""
+	}
+}
